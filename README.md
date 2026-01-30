@@ -1,2 +1,2 @@
 ## Intro
-This repositories contains step by step Notebook solutions to some problems.
+This repository contains step by step Notebook solutions.
